@@ -1,0 +1,14 @@
+org/apache/asterix/external/library/KeywordsDetectorFactory.class
+org/apache/asterix/external/library/EncryptFunction.class
+org/apache/asterix/external/library/KeywordsDetectorFunction.class
+org/apache/asterix/external/library/SumFactory2.class
+org/apache/asterix/external/library/SumFactory.class
+org/apache/asterix/external/library/EncryptFactory.class
+org/apache/asterix/external/library/KafkaProducerUDFFunction.class
+org/apache/asterix/external/library/WordInListFunction.class
+org/apache/asterix/external/library/SentimentFactory.class
+org/apache/asterix/external/library/SumFunction.class
+org/apache/asterix/external/library/KafkaProducerUDFFactory.class
+org/apache/asterix/external/library/SumFunction2.class
+org/apache/asterix/external/library/SentimentFunction.class
+org/apache/asterix/external/library/WordInListFactory.class

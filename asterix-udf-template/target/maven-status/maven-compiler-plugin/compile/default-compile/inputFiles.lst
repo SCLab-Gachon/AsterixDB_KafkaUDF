@@ -1,0 +1,14 @@
+/home/daeho/바탕화면/asterix-udf-template/src/main/java/org/apache/asterix/external/library/SumFactory2.java
+/home/daeho/바탕화면/asterix-udf-template/src/main/java/org/apache/asterix/external/library/KeywordsDetectorFactory.java
+/home/daeho/바탕화면/asterix-udf-template/src/main/java/org/apache/asterix/external/library/SumFactory.java
+/home/daeho/바탕화면/asterix-udf-template/src/main/java/org/apache/asterix/external/library/EncryptFactory.java
+/home/daeho/바탕화면/asterix-udf-template/src/main/java/org/apache/asterix/external/library/EncryptFunction.java
+/home/daeho/바탕화면/asterix-udf-template/src/main/java/org/apache/asterix/external/library/SentimentFunction.java
+/home/daeho/바탕화면/asterix-udf-template/src/main/java/org/apache/asterix/external/library/SentimentFactory.java
+/home/daeho/바탕화면/asterix-udf-template/src/main/java/org/apache/asterix/external/library/SumFunction2.java
+/home/daeho/바탕화면/asterix-udf-template/src/main/java/org/apache/asterix/external/library/KafkaProducerUDFFunction.java
+/home/daeho/바탕화면/asterix-udf-template/src/main/java/org/apache/asterix/external/library/KafkaProducerUDFFactory.java
+/home/daeho/바탕화면/asterix-udf-template/src/main/java/org/apache/asterix/external/library/KeywordsDetectorFunction.java
+/home/daeho/바탕화면/asterix-udf-template/src/main/java/org/apache/asterix/external/library/WordInListFunction.java
+/home/daeho/바탕화면/asterix-udf-template/src/main/java/org/apache/asterix/external/library/WordInListFactory.java
+/home/daeho/바탕화면/asterix-udf-template/src/main/java/org/apache/asterix/external/library/SumFunction.java
